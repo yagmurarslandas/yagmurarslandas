@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yağmur Arslandaş. I'm just 16 years old.
+- 👋 Hi, I’m Yağmur Arslandaş from Turkey. I'm just 16 years old.
 - 🌱 I’m currently learning Python.
 - 📫 You can reach me on my e-mail. (yagmurarslandas@hotmail.com)
 
